@@ -1,3 +1,5 @@
 export(facet_select)
+importFrom(ggplot2,ggplot_add)
+importFrom(ggplot2,update_ggplot)
 S3method(ggplot2::ggplot_add,facet_select)
 S3method(ggplot2::update_ggplot,facet_select)
