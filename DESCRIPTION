@@ -1,0 +1,13 @@
+Package: msander4tools
+Title: Helpful Tools for Work
+Version: 0.0.0.9000
+Authors@R: person("Andersen", "Hecon", role = c("aut", "cre"))
+Description: A collection of tools helpful for work.
+License: GPL-3
+Encoding: UTF-8
+Imports:
+    ggplot2,
+    rlang
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
