@@ -1,0 +1,2 @@
+export(facet_select)
+S3method(ggplot_add,facet_select)
